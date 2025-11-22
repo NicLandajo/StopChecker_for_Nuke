@@ -1,5 +1,5 @@
 # StopZones
-Inspired by a variety of false color systems from different camera monitors systems, StopZones splits an image into 1-stop value tones with its math center in 18% Grey so you can see steps in live action, CG, DMP, and exposure matches in acquisitions.
+Inspired by a variety of false color systems from different camera monitors systems, StopZones splits an image into 1-stop value tones with its math center in 18% Grey so you can see reliable and accurate stops across live action, CG, DMP, and any acquisition. This tool might be helpful in contactsheet sequence visualization, lighting and comp departments to match what the DP did in live action, tech-checks, and any idea that you might come up with to match exposure.
 
 #
 
