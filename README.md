@@ -1,7 +1,7 @@
-# StopZones
-Inspired by the false-color systems found in professional camera monitors, StopZones divides an image into one-stop exposure intervals, centered mathematically on 18% gray. This provides a consistent, accurate stop-based view across live-action, CG, matte painting, and any other source.
+# StopChecker
+Inspired by the false-color systems found in professional camera monitors, StopChecker divides an image into one-stop exposure intervals, centered mathematically on 18% gray. This provides a consistent, accurate stop-based view across live-action, CG, matte painting, and any other source.
 
-StopZones can be especially useful for contact sheet reviews, lighting and comp workflows, and for matching the cinematographer’s intent from set. As long as all media is correctly interpreted in terms of color space, StopZones lets you evaluate and match exposure across diverse sources with confidence and precision—regardless of how the material was acquired or created.
+StopChecker can be especially useful for contact sheet reviews, lighting and comp workflows, and for matching the cinematographer’s intent from set. As long as all media is correctly interpreted in terms of color space, StopChecker lets you evaluate and match exposure across diverse sources with confidence and precision—regardless of how the material was acquired or created.
 
 #
 
