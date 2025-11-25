@@ -9,6 +9,10 @@ SOON
 
 #
 
+https://github.com/user-attachments/assets/4a7f2600-0712-4f8a-8f47-61d4764313b6
+
+#
+
 ![ball_plate](https://github.com/user-attachments/assets/7f82c4dc-2750-4af6-aedb-ad9a950993da)
 ![ball_stops](https://github.com/user-attachments/assets/1f30f2f3-2dad-4cb7-bdb3-fe1d9f160b11)
 <img width="3072" height="2048" alt="contactsheet_original" src="https://github.com/user-attachments/assets/40a00b32-e696-4895-b414-d26ed090f9e8" />
