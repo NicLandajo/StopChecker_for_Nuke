@@ -49,7 +49,17 @@ PLAY VIDEO
 #
 
 <img width="1262" height="860" alt="bridge_original" src="https://github.com/user-attachments/assets/a2030aab-3480-44f8-82cf-95ffb94de873" />
+
+#
 <img width="1262" height="860" alt="bridge_stops" src="https://github.com/user-attachments/assets/cfe02ee9-213a-475d-9a99-11da49830d09" />
+
+#
 <img width="3072" height="2048" alt="contactsheet_above and below" src="https://github.com/user-attachments/assets/15af3956-6a23-4f8e-bc19-90bcf381d198" />
+
+#
 <img width="3072" height="2048" alt="contactsheet_above 18" src="https://github.com/user-attachments/assets/cf198e8e-f732-48b3-bdb3-30ccc461b8b7" />
+
+#
 <img width="3072" height="2048" alt="contactsheet_below 18" src="https://github.com/user-attachments/assets/3d10dca2-fc05-485d-be7f-19170b611264" />
+
+#
