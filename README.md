@@ -1,13 +1,12 @@
 # StopChecker
 
-⭐ Star this repository — it’s quick, free, and helps others discover the project
-
-🌍 Share this tool with anyone you think would enjoy it! 🌍
+🌍 Share this tool with anyone you think would enjoy it! 🌍 ⭐ Star this repository — it’s quick, free, and helps others discover the page ⭐
 #
 
 PLAY VIDEO
 
 ![balls_video_hdri_match GIFhq](https://github.com/user-attachments/assets/cc1ae04e-6cc0-4230-b72a-93a4db5b57b1)
+
 #
 
 Inspired by several false-color systems found in professional camera monitors, StopChecker divides an image into one-stop exposure intervals, centered mathematically on 18% gray (0.18 Nuke´s mid grey - linear value). This provides a consistent, accurate stop-based view across live-action, CG, matte painting, and any other source.
