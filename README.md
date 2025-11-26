@@ -5,10 +5,6 @@ StopChecker can be especially useful for contact sheet reviews, lighting and com
 
 #
 
-SOON
-
-#
-
 PLAY VIDEO
 
 ![balls_video_hdri_match GIFhq](https://github.com/user-attachments/assets/cc1ae04e-6cc0-4230-b72a-93a4db5b57b1)
