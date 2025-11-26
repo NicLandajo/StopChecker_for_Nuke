@@ -18,9 +18,17 @@ PLAY VIDEO
 #
 
 ![ball_plate](https://github.com/user-attachments/assets/7f82c4dc-2750-4af6-aedb-ad9a950993da)
+
+#
 ![ball_stops](https://github.com/user-attachments/assets/1f30f2f3-2dad-4cb7-bdb3-fe1d9f160b11)
+
+#
 <img width="3072" height="2048" alt="contactsheet_original" src="https://github.com/user-attachments/assets/40a00b32-e696-4895-b414-d26ed090f9e8" />
+
+#
 <img width="3072" height="2048" alt="contactsheet_stops" src="https://github.com/user-attachments/assets/ed69e6fa-893c-4553-b96e-b4bf0086df02" />
+
+#
 ![desk_plate](https://github.com/user-attachments/assets/3cb4645f-5aaf-4c93-988c-c93114717d62)
 ![desk_stops](https://github.com/user-attachments/assets/ca2f03ce-677d-4bbb-aa9a-e3f65415c4e1)
 ![marcie_plate](https://github.com/user-attachments/assets/f16ec58b-355b-49cd-a589-c3983ff1c11c)
