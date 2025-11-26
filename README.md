@@ -1,4 +1,10 @@
 # StopChecker - Coming Soon
+
+PLAY VIDEO
+
+![balls_video_hdri_match GIFhq](https://github.com/user-attachments/assets/cc1ae04e-6cc0-4230-b72a-93a4db5b57b1)
+#
+
 Inspired by several false-color systems found in professional camera monitors, StopChecker divides an image into one-stop exposure intervals, centered mathematically on 18% gray (0.18 Nuke´s mid grey - linear value). This provides a consistent, accurate stop-based view across live-action, CG, matte painting, and any other source.
 
 StopChecker can be especially useful for contact sheet reviews, lighting and comp workflows and for matching the cinematographer’s intent from set. As long as all media is correctly interpreted color space wise, StopChecker lets you evaluate and match exposure across diverse sources with precision, regardless of how the material was acquired or created. It might also be very useful for tech-checks.
@@ -8,12 +14,6 @@ StopChecker is also an excellent tool for evaluating the latitude and tonal beha
 #
 
 V1.0 tested on Nuke 15.2v1. Adapt it if you use later versions.
-#
-
-PLAY VIDEO
-
-![balls_video_hdri_match GIFhq](https://github.com/user-attachments/assets/cc1ae04e-6cc0-4230-b72a-93a4db5b57b1)
-
 #
 
 PLAY VIDEO
