@@ -1,4 +1,4 @@
-# StopChecker - Coming Soon
+# StopChecker
 
 PLAY VIDEO
 
