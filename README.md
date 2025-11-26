@@ -1,5 +1,10 @@
 # StopChecker
 
+⭐ Star this repository — it’s quick, free, and helps others discover the project
+
+🌍 Share this tool with anyone you think would enjoy it! 🌍
+#
+
 PLAY VIDEO
 
 ![balls_video_hdri_match GIFhq](https://github.com/user-attachments/assets/cc1ae04e-6cc0-4230-b72a-93a4db5b57b1)
@@ -74,5 +79,14 @@ PLAY VIDEO
 
 #
 <img width="3072" height="2048" alt="contactsheet_below 18" src="https://github.com/user-attachments/assets/3d10dca2-fc05-485d-be7f-19170b611264" />
+
+#
+⭐ Star this repository — it’s quick, free, and helps others discover the project
+
+🌍 Share this tool with anyone you think would enjoy it! 🌍
+
+🪲 Report any bugs you come across
+
+📄 Contribute improvements
 
 #
