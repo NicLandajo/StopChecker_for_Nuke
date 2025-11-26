@@ -11,6 +11,8 @@ SOON
 
 https://github.com/user-attachments/assets/4a7f2600-0712-4f8a-8f47-61d4764313b6
 
+![balls_video_hdri_match GIFhq](https://github.com/user-attachments/assets/cc1ae04e-6cc0-4230-b72a-93a4db5b57b1)
+
 #
 
 ![ball_plate](https://github.com/user-attachments/assets/7f82c4dc-2750-4af6-aedb-ad9a950993da)
