@@ -23,6 +23,12 @@ PLAY VIDEO
 ![ball_stops](https://github.com/user-attachments/assets/1f30f2f3-2dad-4cb7-bdb3-fe1d9f160b11)
 
 #
+
+<img width="1408" height="911" alt="marcie con marcie cg plates" src="https://github.com/user-attachments/assets/af47b034-bcf8-4009-971f-5b632c9a6551" />
+
+<img width="1411" height="911" alt="marcie con marcie cg stops" src="https://github.com/user-attachments/assets/a0c70da1-90c8-4fd5-86f5-7007a9540ea8" />
+
+#
 <img width="3072" height="2048" alt="contactsheet_original" src="https://github.com/user-attachments/assets/40a00b32-e696-4895-b414-d26ed090f9e8" />
 
 #
