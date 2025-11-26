@@ -1,7 +1,7 @@
 # StopChecker - Coming Soon
 Inspired by the false-color systems found in professional camera monitors, StopChecker divides an image into one-stop exposure intervals, centered mathematically on 18% gray. This provides a consistent, accurate stop-based view across live-action, CG, matte painting, and any other source.
 
-StopChecker can be especially useful for contact sheet reviews, lighting and comp workflows and for matching the cinematographer’s intent from set (even a simple on-set picture of the camera´s monitor taken with your phone is enought information for a pipeline to start working). As long as all media is correctly interpreted color space wise, StopChecker lets you evaluate and match exposure across diverse sources with precision, regardless of how the material was acquired or created. It might also be very useful for tech-checks.
+StopChecker can be especially useful for contact sheet reviews, lighting and comp workflows and for matching the cinematographer’s intent from set. As long as all media is correctly interpreted color space wise, StopChecker lets you evaluate and match exposure across diverse sources with precision, regardless of how the material was acquired or created. It might also be very useful for tech-checks.
 
 #
 
