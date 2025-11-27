@@ -15,17 +15,16 @@ StopChecker is also an excellent tool for evaluating the latitude and tonal beha
 #
 
 V1.0 tested on Nuke 15.2v1. Adapt it if you use later versions.
+
+🌍 Share this tool with anyone you think would enjoy it! 🌍
+
+⭐ Star this repository — it’s quick, free, and helps others discover the project  ⭐
+
 #
 
 PLAY VIDEO
 
 ![video_marcie_1k lq](https://github.com/user-attachments/assets/d0f4bcfd-d329-423b-a0b7-3d481991f38e)
-
-#
-
-🌍 Share this tool with anyone you think would enjoy it! 🌍
-
-⭐ Star this repository — it’s quick, free, and helps others discover the project  ⭐
 
 
 #
