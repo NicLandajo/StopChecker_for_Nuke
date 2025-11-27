@@ -91,3 +91,7 @@ PLAY VIDEO
 📄 Contribute improvements
 
 #
+
+images courtesy of OpenEXR and ActionVFX
+
+#
