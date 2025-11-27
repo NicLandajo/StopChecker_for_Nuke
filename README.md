@@ -2,7 +2,7 @@
 
 🌍 Share this tool with anyone you think would enjoy it! 🌍
 
-⭐ Star this repository — it’s quick, free, and helps others discover the project ⭐
+⭐ Star this repository — it’s quick, free, and helps others discover the project  ⭐
 #
 
 PLAY VIDEO
