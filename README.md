@@ -10,7 +10,7 @@ Inspired by several false-color systems found in professional camera monitors, S
 
 StopChecker can be especially useful for contact sheet reviews, lighting and comp workflows and for matching the cinematographer’s intent from set. As long as all media is correctly interpreted color space wise, StopChecker lets you evaluate and match exposure across diverse sources intuitively and visually with precision, regardless of how the material was acquired or created. It might also be very useful for tech-checks.
 
-StopChecker is also an excellent tool for evaluating the latitude and tonal behavior of camera sensors and film stocks. It can even reveal surprising details—like how certain sensors or film stocks can lose an entire stop of dynamic range between two adjacent exposure levels.
+StopChecker is also an excellent tool for evaluating the latitude and tonal behavior of camera sensors and film stocks. It can even reveal surprising details like how certain sensors or film stocks can lose an entire stop of dynamic range between two adjacent exposure levels.
 
 #
 
